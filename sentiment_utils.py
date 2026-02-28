@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 from transformers import pipeline
 import streamlit as st
 import pandas as pd
